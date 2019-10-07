@@ -175,7 +175,7 @@ public class UserController {
     }
 
     /**
-     * 日期的处理，这是在controller层处理的，也可以直接在entity上加一个注解en
+     * 日期的处理，这是在controller层处理的，也可以直接在entity上加一个注解
      * @DateTimeFormat(pattern = "yyyy-MM-dd")
      * @param binder
      */
